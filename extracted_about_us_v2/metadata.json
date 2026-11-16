@@ -1,0 +1,6 @@
+{
+  "name": "BuildPro - About Us",
+  "description": "Professional About Us page for BuildPro Construction & Development, extracted from premium dark-mode construction design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
